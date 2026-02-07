@@ -16,7 +16,5 @@ With these settings the wrench will fit snugly and can be kept in the saddle bag
 
 ![Segway-i2-Wrench](media/Segway-Wrench.png)
 
-File under (media/Segway-Wrench.stl)
-
-
+https://github.com/paul-aviles/Segway-i2-Wrench/blob/main/media/Segway-Wrench.stl
 
